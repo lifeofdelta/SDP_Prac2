@@ -1,5 +1,8 @@
 language: csharp
 solution: Oware.sln
+os:
+  - linux
+  - osx
 script:
  - dotnet test
 jobs: 
