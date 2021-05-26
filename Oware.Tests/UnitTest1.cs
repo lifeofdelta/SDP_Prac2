@@ -17,7 +17,7 @@ namespace Oware.Tests
             //Act 
             h1.ResetHouse();
             //Assert
-            Assert.AreEqual(4, h1.GetCount(), "House should have 4 seeds");
+           Assert.AreEqual(4, h1.GetCount(), "House should have 4 seeds");
         }
         [Test]
         public void Test2()

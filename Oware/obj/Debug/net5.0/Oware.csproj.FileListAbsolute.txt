@@ -1,0 +1,16 @@
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\bin\Debug\net5.0\Oware.exe
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\bin\Debug\net5.0\Oware.deps.json
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\bin\Debug\net5.0\Oware.runtimeconfig.json
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\bin\Debug\net5.0\Oware.runtimeconfig.dev.json
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\bin\Debug\net5.0\Oware.dll
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\bin\Debug\net5.0\ref\Oware.dll
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\bin\Debug\net5.0\Oware.pdb
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.csprojAssemblyReference.cache
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.GeneratedMSBuildEditorConfig.editorconfig
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.AssemblyInfoInputs.cache
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.AssemblyInfo.cs
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.csproj.CoreCompileInputs.cache
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.dll
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\ref\Oware.dll
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.pdb
+J:\My Documents\Csc302\new SDP2\SDP_Prac2\Oware\obj\Debug\net5.0\Oware.genruntimeconfig.cache

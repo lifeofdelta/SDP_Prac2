@@ -8,8 +8,10 @@ namespace Oware
     {
         static void Main(string[] args)
         {
-            Player one = new Player("Player 1");
-            Player two = new Player("Player 2");
+            IScoreHouse name1 = new IScoreHouse();
+            IScoreHouse name2 = new IScoreHouse();
+            Player one = new Player("Player 1",name1);
+            Player two = new Player("Player 2",name2);
             Board b = new Board(one, two);
             // rest left as exercise to reader!
         }
